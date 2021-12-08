@@ -2,7 +2,7 @@
 
 int input();
 void output(float);
-int pie = 3.14;
+int pie = 3.14159;
 
 int main()
 {
