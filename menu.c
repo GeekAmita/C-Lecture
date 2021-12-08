@@ -47,7 +47,7 @@ int main()
         }
 
         default:
-            printf("\n #WRONG INPUT# \n");
+            printf("\n ##WRONG INPUT## \n");
     }
         return 0;
 }
