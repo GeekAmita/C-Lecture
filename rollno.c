@@ -11,5 +11,4 @@ int main(){
     printf("Roll No.: %d got %f Marks \n", rollNo,marks);
 
     return 0;
-    
-    }
+}
