@@ -1,3 +1,4 @@
+/*To perform file i/o operations*/
 #include <stdio.h>
 #include <stdlib.h>
 
