@@ -1,3 +1,4 @@
+/*To implement call by reference*/
 #include <stdio.h>
 
 void swapnum ( int *var1, int *var2 )

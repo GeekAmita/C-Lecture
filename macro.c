@@ -1,3 +1,4 @@
+/*To use macros*/
 #include <stdio.h>
 
 #define AREA(l, b) (l * b)
@@ -13,7 +14,5 @@ void main()
     
 	area = AREA(l1, l2);
 
-	printf("\nArea of rectangle"
-		" is: %d\n",
-		area);
+	printf("\nArea of rectangle is: %d\n", area);
 }

@@ -1,3 +1,4 @@
+/*To find the sum & reverse of digits and check is palindrome or not*/
 #include<stdio.h>
 
 void main()

@@ -1,3 +1,4 @@
+/*To perform string function*/
 #include <stdio.h>
 #include <string.h>
 
@@ -10,13 +11,11 @@ void main()
 
 	val = strrchr(st, ch);
 
-	printf("\nString after last %c is : %s \n",
-		ch, val);
+	printf("\nString after last %c is : %s \n", ch, val);
 
 	char ch2 = 'm';
 
 	val = strrchr(st, ch2);
 
-	printf("\nString after last %c is : %s \n",
-		ch2, val);
+	printf("\nString after last %c is : %s \n", ch2, val);
 }

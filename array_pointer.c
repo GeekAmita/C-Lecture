@@ -1,3 +1,4 @@
+/*To access array element using pointer*/
 #include<stdio.h>
 #define MAX_SIZE 100  
 
@@ -18,5 +19,6 @@ void main()
     int *ptr = arr; 
     printf("\nArray you entered: \n");  
     for(int i=0; i<n; i++)        
-    printf("%d \n",*(ptr+i));     
+    printf("%d ",*(ptr+i));   
+    printf("\n");  
 }

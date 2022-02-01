@@ -1,3 +1,4 @@
+/*To implement call by value*/
 #include <stdio.h>
 
 void swap( int var1, int var2 )
